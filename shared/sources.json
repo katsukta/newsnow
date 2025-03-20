@@ -116,6 +116,14 @@
     "color": "gray",
     "interval": 600000
   },
+   "tiktok": {
+    "name": "tiktok",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://www.tiktok.com",
+    "color": "gray",
+    "interval": 600000
+  },
   "tieba": {
     "title": "热议",
     "name": "百度贴吧",
@@ -347,6 +355,14 @@
     "type": "hottest",
     "column": "china",
     "home": "https://www.baidu.com",
+    "color": "blue",
+    "interval": 600000
+  },
+    "x": {
+    "name": "x热搜",
+    "type": "hottest",
+    "column": "china",
+    "home": "https://www.x.com",
     "color": "blue",
     "interval": 600000
   },
